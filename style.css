@@ -1,0 +1,38 @@
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: pink;
+}
+.menu
+{
+    list-style: none;
+    padding: 0px;
+    background: #092327;
+    width: 100%;
+    margin: auto;
+}
+.menu li a 
+{
+    text-decoration: none;
+    color: white;
+    padding: 20px 180px;
+    display: block;
+}
+.menu li
+{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a:hover
+{
+    background: lightseagreen;
+}
+h1
+{
+    font-size: 50px;
+}
+p
+{
+    font-size: 40px;
+}
+
